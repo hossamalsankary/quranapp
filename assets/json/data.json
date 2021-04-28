@@ -1,0 +1,83 @@
+{
+    "food": {
+        "Burrito": {
+            "name": "Burrito",
+            "imageUrl": "assets/images/burrito.jpg",
+            "price": "8",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Steak": {
+            "name": "Steak",
+            "imageUrl": "assets/images/steak.jpg",
+            "price": "17",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Pasta": {
+            "name": "Pasta",
+            "imageUrl": "assets/images/pasta.jpg",
+            "price": "12",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Ramen": {
+            "name": "Ramen",
+            "imageUrl": "assets/images/ramen.jpg",
+            "price": "12",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Pancakes": {
+            "name": "Pancakes",
+            "imageUrl": "assets/images/pancakes.jpg",
+            "price": "19",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },  "Past": {
+            "name": "Pasta",
+            "imageUrl": "assets/images/1.jpg",
+            "price": "12",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Pa": {
+            "name": "Ceacken",
+            "imageUrl": "assets/images/2.jpg",
+            "price": "12",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Pasa": {
+            "name": "Bread",
+            "imageUrl": "assets/images/3.jpg",
+            "price": "12",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        },
+        "Qw": {
+            "name": "Meat",
+            "imageUrl": "assets/images/4.jpg",
+            "price": "12",
+            "details": "1 Liking and Unliking PostRealtime Messaging with CommenActivity Feed Notifications Following and Unfollowing Users Cloud Firestore Triggers with Firebase FunctionsBuilding Timeline of User Posts"
+        }
+    },
+    "restaurant": {
+        "Restaurant 0": {
+            "imageUrl": "assets/images/restaurant0.jpg",
+            "name": " حمزه",
+            "address": "200 Main St, New York, NY",
+            "rating": "5"
+        },
+        "Restaurant 2": {
+            "imageUrl": "assets/images/restaurant1.jpg",
+            "name": " صاحب السعاده",
+            "address": "200 Main St, New York, NY",
+            "rating": "4"
+        },
+        "Restaurant 3": {
+            "imageUrl": "assets/images/restorantoo.jpg",
+            "name": "حريقة اكل",
+            "address": "200 Main St, New York, NY",
+            "rating": "5"
+        },
+        "Restaurant 4": {
+            "imageUrl": "assets/images/restaurant3.jpg",
+            "name": " ابو علي",
+            "address": "200 Main St, New York, NY",
+            "rating": "5"
+        }
+    }
+}
